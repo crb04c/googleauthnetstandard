@@ -1,0 +1,13 @@
+﻿{
+  "supports": {},
+  "dependencies": {
+    "Google.Apis.Auth": "1.20.0",
+    "Microsoft.NETCore.Portable.Compatibility": "1.0.1",
+    "NETStandard.Library": "1.6.1",
+    "SimpleHttpListener": "3.6.2",
+    "System.Diagnostics.Process": "4.3.0"
+  },
+  "frameworks": {
+    "netstandard1.3": {}
+  }
+}
